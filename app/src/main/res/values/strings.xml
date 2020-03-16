@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="freeToShare">Free To Share</string>
+    <string name="image_title">title image</string>
+    <string name="view">View More Details</string>
+    <string name="upload">Upload news</string>
+    <string name="explore">Explore and Share News To The World</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="next">Continue</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description">Content Description</string>
+    <string name="finish">Finish</string>
+    <string name="back">Back</string>
+    <string name="proceed">Click next to upload information</string>
+</resources>
