@@ -3,7 +3,8 @@
     <string name="freeToShare">Free To Share</string>
     <string name="image_title">title image</string>
     <string name="view">View More Details</string>
-    <string name="upload">Upload news</string>
+    <string name="Terms">Terms &amp; condition</string>
+    <string name="privacy">privacy</string>
     <string name="explore">Explore and Share News To The World</string>
     <string name="upload_image">Upload Image</string>
     <string name="next">Continue</string>
@@ -14,4 +15,15 @@
     <string name="finish">Finish</string>
     <string name="back">Back</string>
     <string name="proceed">Click next to upload information</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="agreenment">hello!!! By clicking this you agree with our terms</string>
+    <string name="share">share</string>
 </resources>

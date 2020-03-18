@@ -1,7 +1,7 @@
 package com.example.newsapp
 
 import android.app.Application
-import com.example.newsapp.Data.DataRepository
+import com.example.newsapp.data.DataRepository
 import com.example.newsapp.viewmodel.InfoViewModelFactory
 import org.kodein.di.Kodein
 import org.kodein.di.KodeinAware

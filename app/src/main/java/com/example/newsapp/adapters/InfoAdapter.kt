@@ -6,7 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import com.example.newsapp.Data.MyData
+import com.example.newsapp.data.MyData
 import com.example.newsapp.R
 import kotlinx.android.synthetic.main.info_news.view.*
 

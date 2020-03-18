@@ -24,7 +24,7 @@
     </fragment>
     <fragment
         android:id="@+id/imageFragment"
-        android:name="com.example.newsapp.ui.UploadDetailFragment"
+        android:name="com.example.newsapp.ui.ImageFragment"
         android:label="fragment_image"
         tools:layout="@layout/fragment_image" >
 

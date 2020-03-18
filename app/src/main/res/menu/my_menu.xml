@@ -3,9 +3,18 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
-        android:id="@+id/upload"
-        android:title="@string/upload"
+        android:id="@+id/terms"
+        android:title="@string/Terms"
         app:showAsAction="never"/>
 
+    <item
+        android:id="@+id/privacy"
+        android:title="@string/privacy"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/share"
+        android:title="@string/share"
+        app:showAsAction="never"/>
 
 </menu>
